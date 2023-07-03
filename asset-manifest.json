@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6cb5355e.css",
-    "main.js": "/portfolio/static/js/main.c1841d41.js",
+    "main.css": "/portfolio/static/css/main.7bf786ef.css",
+    "main.js": "/portfolio/static/js/main.e5d3e236.js",
     "static/media/work2.png": "/portfolio/static/media/work2.e1f5c9988a2997f29d43.png",
     "static/media/work3.png": "/portfolio/static/media/work3.6f94eb399ce0b4898079.png",
     "static/media/work4.png": "/portfolio/static/media/work4.d37e5e3757be7d2333a1.png",
     "static/media/work1.png": "/portfolio/static/media/work1.f452b265022447d49965.png",
-    "static/media/Stepan_Romanov_CV_072023.pdf": "/portfolio/static/media/Stepan_Romanov_CV_072023.eb7e5ca87808c4187b96.pdf",
+    "static/media/Stefan_Romanoff_CV_072023.pdf": "/portfolio/static/media/Stefan_Romanoff_CV_072023.dd121e17a912d3e01ff9.pdf",
     "static/media/profile.jpg": "/portfolio/static/media/profile.0d23141f0ba3b2ab61e3.jpg",
     "index.html": "/portfolio/index.html",
-    "main.6cb5355e.css.map": "/portfolio/static/css/main.6cb5355e.css.map",
-    "main.c1841d41.js.map": "/portfolio/static/js/main.c1841d41.js.map"
+    "main.7bf786ef.css.map": "/portfolio/static/css/main.7bf786ef.css.map",
+    "main.e5d3e236.js.map": "/portfolio/static/js/main.e5d3e236.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb5355e.css",
-    "static/js/main.c1841d41.js"
+    "static/css/main.7bf786ef.css",
+    "static/js/main.e5d3e236.js"
   ]
 }
