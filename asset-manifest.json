@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3e7624ea.css",
-    "main.js": "/portfolio/static/js/main.e1aba9e8.js",
+    "main.js": "/portfolio/static/js/main.ce33590c.js",
     "static/media/work2.png": "/portfolio/static/media/work2.e1f5c9988a2997f29d43.png",
     "static/media/work3.png": "/portfolio/static/media/work3.6f94eb399ce0b4898079.png",
     "static/media/work4.png": "/portfolio/static/media/work4.d37e5e3757be7d2333a1.png",
@@ -9,12 +9,13 @@
     "static/media/work1.png": "/portfolio/static/media/work1.f452b265022447d49965.png",
     "static/media/Stefan_Romanoff_CV_072023.pdf": "/portfolio/static/media/Stefan_Romanoff_CV_072023.b36d1ebb504f051ef929.pdf",
     "static/media/profile.jpg": "/portfolio/static/media/profile.0d23141f0ba3b2ab61e3.jpg",
+    "static/media/work10.png": "/portfolio/static/media/work10.7ac7d186fb9ac96e40c2.png",
     "index.html": "/portfolio/index.html",
     "main.3e7624ea.css.map": "/portfolio/static/css/main.3e7624ea.css.map",
-    "main.e1aba9e8.js.map": "/portfolio/static/js/main.e1aba9e8.js.map"
+    "main.ce33590c.js.map": "/portfolio/static/js/main.ce33590c.js.map"
   },
   "entrypoints": [
     "static/css/main.3e7624ea.css",
-    "static/js/main.e1aba9e8.js"
+    "static/js/main.ce33590c.js"
   ]
 }
